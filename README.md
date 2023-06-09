@@ -1,6 +1,6 @@
 <h1 align="center">
   <div ALIGN="center">
-    <img alt="" src="https://github.com/P923/vCenterScripter/blob/main/vcs.png?raw=true" width="300px" height="300px" />
+    <img alt="" src="https://github.com/P923/vCenterScripter/blob/main/vcs.png?raw=true" width="550px" height="359px" />
   </div>
   <br /><br />
   vCenterScripter</h1>
