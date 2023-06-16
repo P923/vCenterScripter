@@ -20,7 +20,7 @@
 
 ### Prerequisites
 ```
-pyvmomi
+pyvmomi, PrettyTable
 ```
 
 

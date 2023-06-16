@@ -8,6 +8,6 @@ setup(
     url='https://github.com/P923/',
     py_modules=['vCenterScripter'],
     install_requires=[
-        'pyvmomi',
+        'pyvmomi','PrettyTable',
     ],
 )
