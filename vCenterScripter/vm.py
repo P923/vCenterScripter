@@ -2,7 +2,7 @@ import re
 import time
 from typing import List
 
-from pyVim.task import WaitForTask
+from pyvim.task import WaitForTask
 
 from vCenterScripter.common import *
 from vCenterScripter.logger import Logger, print_

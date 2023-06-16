@@ -1,4 +1,4 @@
-from pyVim.task import WaitForTask
+from pyvim.task import WaitForTask
 from pyVmomi import vim
 
 from vCenterScripter.common import list_obj_names, get_object

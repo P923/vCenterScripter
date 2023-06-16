@@ -1,4 +1,4 @@
-from pyVim.task import WaitForTask
+from pyvim.task import WaitForTask
 
 from vCenterScripter.common import *
 
