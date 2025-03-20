@@ -65,8 +65,8 @@ def run_program(si: vim.ServiceInstance,
                 program_path: str,
                 logger: Logger = None,
                 program_arguments: str = None,
-                working_directory: str = "C:",
-                envVariables=['PATH=c:\windows\system32'],
+                working_directory: str = "",
+                envVariables=None,
                 async_run: bool = False):
     """
     Run a program inside the VM using VMWare tools
